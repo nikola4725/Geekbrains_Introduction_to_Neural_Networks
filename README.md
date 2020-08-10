@@ -1,0 +1,2 @@
+# Geekbrains_Introduction_to_Neural_Networks
+For Geekbrains introduction to neural networks course
